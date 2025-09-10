@@ -16,10 +16,10 @@ Program ini adalah aplikasi sederhana berbasis Java yang digunakan untuk mengelo
 
 ## Atribut Data Film/Series
 
-<pre>- Judul → Nama film atau series.
-- Genre → Jenis film (aksi, komedi, drama, horor, dll.).
-- Tahun Rilis → Tahun film atau series pertama kali dirilis.
-- Rating → Nilai atau penilaian dari pengguna (misalnya 1–10).</pre>
+<pre>- Judul Atribut yang berisi Nama film atau series.
+- Genre Atribut yang berisi Jenis film (aksi, komedi, drama, horor, dll.).
+- Tahun Rilis Atribut yang berisi Tahun film atau series pertama kali dirilis.
+- Rating Atribut yang berisi Nilai atau penilaian dari pengguna (misalnya 1–10).</pre>
 
 ## Alur Program
 
