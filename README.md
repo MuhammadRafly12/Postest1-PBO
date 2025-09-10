@@ -76,6 +76,7 @@ Jika nomor urut tidak ditemukan, program akan menampilkan pesan error sederhana.
 
 <img width="439" height="154" alt="image" src="https://github.com/user-attachments/assets/104eedd1-f8fd-4cd8-b16f-ae5d74ee26a3" />
 
+program akan terus berjalan hingga pengguna memilih untuk keluar. jika tidak maka akan kembali memunculkan menu awal dan perulangan akan terjadi
 
 ### Keluar
 
